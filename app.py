@@ -13,7 +13,7 @@ st.set_page_config(page_title="AP-AKI Prediction Model", layout="wide")
 @st.cache_resource
 def load_model():
     # 去当前目录下的 artifacts 文件夹找 xgb_model.pkl
-    path = Path(__file__).absolute().parent / "artifacts" / "xgb_model.pkl"
+    path = Path(__file__).absolute().parent  / "xgb_model.pkl"
     
     with open(path, 'rb') as f:
         return pickle.load(f)
