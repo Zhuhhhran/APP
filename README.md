@@ -1,3 +1,4 @@
+🚀 **Live Demo:** [Click here to use the AP-AKI Prediction App](https://a6tfdfcz5hbqvekfghk5rp.streamlit.app/)
 # AP-AKI Prediction Model: An Explainable Machine Learning Web Application
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
