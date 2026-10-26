@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1432793112.svg)](https://doi.org/10.5281/zenodo.23654828)
 🚀 **Live Demo:** [Click here to use the AP-AKI Prediction Web App](https://a6tfdfcz5hbqvekfghk5rp.streamlit.app/)
 # AP-AKI Prediction Model: An Explainable Machine Learning Web Application
 
